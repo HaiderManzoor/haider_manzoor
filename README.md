@@ -1,7 +1,7 @@
 # haider_manzoor
 This is my first git hub reposoitory
 <br>
-author - Haider Manzoor
+author - Haider Manzoor(hello)
 <br>
 age = 22
 <br>
